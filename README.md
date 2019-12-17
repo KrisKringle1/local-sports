@@ -62,3 +62,5 @@ A live functional version can be seen at: https://localsports.site
 `npm run dev`
 
 ### localhost:3000
+
+Maintained by `tcormons`
