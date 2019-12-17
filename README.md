@@ -43,4 +43,22 @@ A live functional version can be seen at: https://localsports.site
 ## Example 
 ![LocalSports](./assets/Example.png)
   
-Maintained by `tcormons`
+## Development
+### System Requirements
+- NPM 6 or higher
+- MYSQL 7 or higher
+
+### Inital Setup
+- Clone Repository History
+`git clone https://github.com/Tcormons/local-sports.git`
+
+- Install dependencies for NPM
+`npm install`
+
+- Import the database for MYSQL
+`npm run db:import`
+
+- Run Dev enviornment
+`npm run dev`
+
+### localhost:3000
