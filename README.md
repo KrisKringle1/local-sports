@@ -42,9 +42,5 @@ A live functional version can be seen at: https://localsports.site
 
 ## Example 
 ![LocalSports](./assets/Example.png)
-
-## Development
-Instructions coming soon ... 
- 
- 
+  
 Maintained by `tcormons`
