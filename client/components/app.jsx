@@ -99,7 +99,8 @@ export default class App extends React.Component {
               render={() => <Welcome />} />
 
             <Route path='/signIn' exact
-              render={props => <SignIn {...props} callbackSignIn={() => this.loadUser()}/>} />
+              render={props => <SignIn {...props}
+                callbackSignIn={() => this.loadUser()} />} />
 
             <Route path='/createAccount' exact
               render={() => <CreateAccount />} />
@@ -112,28 +113,27 @@ export default class App extends React.Component {
                     likedEvents={this.state.liked}
                     addLiked={id => this.addLikedEvents(id)}
                     removeLiked={id => this.removeLikedEvent(id)}
-                    schedule={this.state.schedule}/>
+                    schedule={this.state.schedule} />
                   <Footer />
-                </div>}/>
+                </div>} />
 
             <Route path='/likedEvents' exact
               render={() =>
                 <div>
                   <LikedEventsList
                     likedEvents={this.state.liked}
-                    removeLike={id => this.removeLikedEvent(id)}/>
+                    removeLike={id => this.removeLikedEvent(id)} />
                   <Footer />
                 </div>} />
 
             <Route path='/settings' exact
-
               render={() =>
                 <div>
                   <Settings
                     removeFromSchedule={day => this.removeFromSchedule(day)}
                     addToSchedule={day => this.addToSchedule(day)}
                     schedule={this.state.schedule}
-                    days={this.state}/>
+                    days={this.state} />
                   <Footer />
                 </div>} />
 
