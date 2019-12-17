@@ -1,6 +1,6 @@
 [Work in Progress]
 
-## local-sports-leagues
+## local-sports
 
 A web app for athletes who want to find local pick-up sporting events.
 
