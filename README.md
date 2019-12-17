@@ -20,4 +20,4 @@ Mobile First
 A live functional version can be seen at: https://localsports.site
 
 ## Example 
-![ExampleImage] (./assets/Example.png)
+Image coming soon ... 
