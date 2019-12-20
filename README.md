@@ -41,7 +41,7 @@ Link: https://www.meistertask.com/app/project/vYNbbEvR/ls-local-sports
 A live functional version can be seen at: https://localsports.site
 
 ## Example 
-![LocalSports](./assets/Example.png)
+![LocalSports](./assets/localSportsDemo.gif)
   
 ## Development
 ### System Requirements
