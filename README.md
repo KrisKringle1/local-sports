@@ -7,7 +7,7 @@ A web app for athletes who want to find local pick-up sporting events.
 Mobile First 
 
 ## Figma
-Link: https://github.com/kevinakahoshi/cyberpunk-logo-match
+Link: https://www.figma.com/file/DNjL1BTIrIh0Idh6VIn1dU/Local-Sports-LS?node-id=0%3A1
 
 ## DB Design
 Link: https://dbdesigner.page.link/2o3e
