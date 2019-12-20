@@ -78,6 +78,7 @@ class GoogleMap extends React.Component {
     if (this.googleMap === undefined) {
       return;
     }
+
     this.googleMap.setZoom(11.5);
   }
 
